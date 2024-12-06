@@ -126,6 +126,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Anuja M - [anujaanuja866@gmail.com](mailto:anujaanuja866@gmail.com)
 
 Project Link: [https://github.com/Anu-affzara/Form-Builder](https://github.com/Anu-affzara/Form-Builder-Website)
-```
 
-Feel free to customize this `README.md` further to better suit your project's details. If you need any more assistance or additions, just let me know! 😊🚀
